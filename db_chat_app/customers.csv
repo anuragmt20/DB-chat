@@ -1,0 +1,21 @@
+id,name,email,age,signup_date
+1,John Doe,john.doe@example.com,28,2021-01-15
+2,Jane Smith,jane.smith@example.com,34,2020-05-22
+3,Bob Johnson,bob.johnson@example.com,45,2019-11-30
+4,Alice Williams,alice.williams@example.com,29,2022-03-10
+5,Charlie Brown,charlie.brown@example.com,31,2021-07-19
+6,Emily Davis,emily.davis@example.com,22,2020-12-05
+7,Michael Wilson,michael.wilson@example.com,38,2018-08-14
+8,Sarah Miller,sarah.miller@example.com,27,2021-09-25
+9,David Garcia,david.garcia@example.com,41,2019-06-18
+10,Laura Martinez,laura.martinez@example.com,36,2020-02-11
+11,James Anderson,james.anderson@example.com,30,2021-04-20
+12,Jessica Thomas,jessica.thomas@example.com,25,2022-01-30
+13,Daniel Taylor,daniel.taylor@example.com,33,2019-10-12
+14,Olivia Moore,olivia.moore@example.com,29,2020-03-15
+15,Matthew Jackson,matthew.jackson@example.com,40,2018-07-22
+16,Isabella White,isabella.white@example.com,26,2021-08-05
+17,William Harris,william.harris@example.com,35,2019-12-01
+18,Sophia Martin,sophia.martin@example.com,32,2020-06-30
+19,Alexander Thompson,alexander.thompson@example.com,39,2018-09-10
+20,Mia Garcia,mia.garcia@example.com,24,2021-11-18
